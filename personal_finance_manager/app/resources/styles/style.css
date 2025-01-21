@@ -1,0 +1,19 @@
+/* app/resources/styles/style.css */
+
+QMainWindow {
+    background-color: #f0f0f0;
+}
+
+QTabWidget::pane {
+    border: 1px solid #c0c0c0;
+    background-color: #ffffff;
+}
+
+QTabBar::tab {
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+QTabBar::tab:selected {
+    background-color: #f0f0f0;
+}

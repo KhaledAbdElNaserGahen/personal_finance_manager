@@ -1,0 +1,11 @@
+{
+    "add_transaction": "Add Transaction",
+    "set_budget": "Set Budget",
+    "set_goal": "Set Goal",
+    "amount": "Amount",
+    "category": "Category",
+    "description": "Description",
+    "date": "Date",
+    "budget_vs_spent": "Budget vs Spent",
+    "goal_progress": "Goal Progress"
+}
